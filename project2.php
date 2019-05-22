@@ -1,5 +1,5 @@
 <?
-	$x = "Halo Dunia";
+	$x = "Halo";
 
 	echo $x;
 ?>
