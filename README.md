@@ -1,2 +1,2 @@
 # prak-kakas
-Terserah
+Belajar menggunakan git
